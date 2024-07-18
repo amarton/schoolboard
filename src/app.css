@@ -1,0 +1,196 @@
+@import '@fontsource/fira-mono';
+@import 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css';
+
+
+
+/* STRUCTURAL ELEMENTS */
+html {
+	scroll-behavior: smooth;
+  }
+  
+  BODY {
+	font-family: 'Poppins', sans-serif;
+	font-size:1em;
+  }
+  
+
+  
+  .bg-dark {
+	background-color: #000 !important;
+  }
+  
+  .embed-container {
+	width:100%;
+	padding: 25px;
+  }
+  
+  
+  .footer {
+	background: #000;
+	height:100px;
+	min-height: 100px;
+	padding-top:25px;
+	margin-top:100px;
+  }
+  
+  
+  /* Nav Bar styles */
+  
+  #nav-logo {
+	width:100%;
+	max-width:300px;
+	margin:0 auto;
+  }
+  
+  #logo {
+	width:250px;
+  }
+  
+  
+  /* LINK STYLES */
+  
+  a:link {
+	color:#991b1e;
+	  text-decoration:none;
+  }
+  
+  a:hover {
+	color:#999999;
+	text-decoration:underline;
+  }
+  
+  a:visited {
+	color:#991b1e;
+	text-decoration:none;
+  }
+  
+  a:active {
+	color:#991b1e;
+	text-decoration:none;
+  }
+  
+  a:link.toc-link {color:#000;}
+  
+  a:visited.toc-link {color:#000;}
+  
+  
+  
+  /* IMAGES */
+    
+  .stack-image {
+	width:100%;
+	max-width:900px;
+	margin:0 auto;
+	padding-top:30px;
+  }
+  
+  
+  
+  /* TYPOGRAPHY */
+  
+  .hed {
+	font-size:2em;
+	font-weight: 700;
+	letter-spacing: -2px;
+  }
+  
+  p{
+	text-align:left;
+	line-height:180%;
+	font-size:1em;
+  }
+  
+  .byline {
+	font-size:1em;
+	text-transform:uppercase;
+	margin-top:-10px;
+  }
+  
+  .intro-text {
+	font-size:1.25em;
+	margin:0 auto;
+	padding-top:25px;
+	padding-bottom:25px;
+  }
+  
+  .candidate {
+	font-size:1.5em;
+	font-weight: 700;
+}
+ 
+.candidate-no {
+	font-size:1.5em;
+}
+  .small-head {
+	font-size:1.5em;
+  }
+  
+  .caption {
+	width:100%;
+	max-width:900px;
+	margin:0 auto;
+	padding-bottom:30px;
+	color:#999;
+  }
+  
+  .footer p {
+	color: #fff
+  }
+  
+  .quote {
+	font-size:2em;
+	text-align: left;
+	padding: 15px 0 15px 0;
+  }
+  
+  .quote-mark {
+	color:#991b1e;
+  }
+  
+  .quote-attribution {
+	font-size:.5em;
+	text-align:center;
+	color:#991b1e;
+  }
+  
+  .dropcap {
+	color: #991b1e;
+	float: left;
+	font-size: 4em;
+	line-height: 60px;
+	padding-top: 4px;
+	padding-right: 8px;
+	padding-left: 3px;
+	font-weight: 700;
+  }
+  
+  
+  
+  /* RESPONSIVE */
+  
+  @media(max-width:550px) {
+	p {
+	  padding-left:20px;
+	  padding-right:10px;
+	}
+  
+	.intro-text {
+	  font-size:1em;
+	}
+  
+	.chapter-head {
+	  font-size:1.25em;
+	}
+  
+	.hed {
+	  font-size:2em;
+	}
+  
+	.quote {
+	  font-size:1em;
+	}
+  
+  }
+  
+  
+  
