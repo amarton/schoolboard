@@ -32,35 +32,33 @@ import {
       </a>
     </div>
 
-      <div class="col-md-3">
-        <a href="counties/Baltimore+County">
-            <button type="button" class="btn btn-primary btn-lg">Baltimore County</button>
-        </a>
-        </div>
+    <div class="col-md-3">
+      <a href="counties/Baltimore+County">
+        <button type="button" class="btn btn-primary btn-lg">Baltimore County</button>
+      </a>
+    </div>
 
-      <div class="col-md-3">
+    <div class="col-md-3">
       
         <Dropdown size="lg">
-            <DropdownToggle color="primary" caret>Prince George's County</DropdownToggle>
-            <DropdownMenu end>
-                <DropdownItem>
-                    <a href="counties/Prince+George's+County+District+1">
-                        District 1
-                    </a>
-                </DropdownItem>
-                <DropdownItem>
-                    <a href="counties/Prince+George's+County+District+2">
-                        District 2
-                    </a>
-                </DropdownItem>
-            </DropdownMenu>
-          </Dropdown>
+          <DropdownToggle color="primary" caret>Prince George's County</DropdownToggle>
+          <DropdownMenu end>
+            <DropdownItem>
+              <a href="counties/Prince+George's+County+District+1">
+                District 1
+              </a>
+            </DropdownItem>
+            <DropdownItem>
+              <a href="counties/Prince+George's+County+District+2">
+                District 2
+              </a>
+            </DropdownItem>
+          </DropdownMenu>
+        </Dropdown>
 
       </div>
 
     </div>
-
-
 
   </div>
   <!-- close container -->
