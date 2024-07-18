@@ -8,6 +8,7 @@
   </script>
   
 
+  <div class="container">
 
 
   <!-- run a loop even though there is only one, display the data-->
@@ -17,56 +18,60 @@
     Then add that to the URL to link back to all candidates in that county-->
     {@const countyLink = legislator[1].replace(/ /g, '+')}  
 
-    <a href="../counties/{countyLink}">Return to see all candidates in this county</a>
-
-
+    <br><a href="../counties/{countyLink}">
+      <button type="button" class="btn btn-primary btn-md">See all candidates in this county</button>
+    </a><br>
+    
   <div class="container">
-      <p>{legislator[2]}</p> 
+    <p class="hed">{legislator[2]}</p> 
+    <hr>
 
-
+    <div class="intro-text">
 
       <!-- for each of the following, it a field is set to null, it won't display-->
       {#if legislator[5] === "null"}
         <span></span>
         {:else}
-        <p>Email: {legislator[5]}</p>
+        Email: <a href="mailto:{legislator[5]}">{legislator[5]}</a><br>
       {/if}
 
 
       {#if legislator[4] === "null"}
         <span></span>
         {:else}
-        <p>Website: {legislator[4]}</p>
+        Website: <a href="http://{legislator[4]}">{legislator[4]}</a><br>
         {/if}
 
       {#if legislator[6] === "null"}
         <span></span>
         {:else}
-        <p>Age: {legislator[6]}</p>
+        Age: {legislator[6]}<br>
       {/if}
 
 
       {#if legislator[7] === "null"}
         <span></span>
         {:else}
-        <p>Occupation: {legislator[7]}</p>
+        Occupation: {legislator[7]}<br>
       {/if}
 
 
       {#if legislator[8] === "null"}
         <span></span>
         {:else}
-        <p>Education {legislator[8]}</p>
+        Education {legislator[8]}
       {/if}
 
+    </div>
 
-
-      <p><strong>Q1</strong>: {legislator[9]}</p>
-      <p><strong>Q2</strong>: {legislator[10]}</p>
-      <p><strong>Q3</strong>: {legislator[11]}</p>
-      <p><strong>Q4</strong>: {legislator[12]}</p>
-      <p><strong>Q5</strong>: {legislator[13]}</p>
-      <p><strong>Q6</strong>: {legislator[14]}</p>
+      <p><strong>Q1. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[9]}</p>
+      <p><strong>Q2. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[10]}</p>
+      <p><strong>Q3. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[11]}</p>
+      <p><strong>Q4. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[12]}</p>
+      <p><strong>Q5. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[13]}</p>
+      <p><strong>Q6. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[14]}</p>
 
     </div>  
     {/each}
+
+    </div>
