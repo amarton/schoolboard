@@ -3,7 +3,7 @@ export const load = async ({ fetch, params }) => {
     //grab the candidate API from the URL
     const id = params.id; 
     //add the candidate ID from the URL to the API query URL
-    const res = await fetch(`https://fakeschoolboard-4ea2df05e513.herokuapp.com/fakeschoolboard/candidates/${id}.json`, {
+    const res = await fetch(`https://schoolboard-tvt5vsz5vq-ue.a.run.app/schoolboard/candidates/${id}.json`, {
         headers: {
             "Accept": "application/json"
         }

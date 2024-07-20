@@ -3,7 +3,7 @@ export const load = async ({ fetch, params }) => {
     //grab the vabiable passed from the url
     const counties = params.counties; 
     //add that variable to the API url
-    const res = await fetch(`https://fakeschoolboard-4ea2df05e513.herokuapp.com/fakeschoolboard/candidates.json?_sort=ID&County__exact=${counties}`, {
+    const res = await fetch(`https://schoolboard-tvt5vsz5vq-ue.a.run.app/schoolboard/candidates.json?_sort=ID&County__exact=${counties}`, {
         headers: {
             "Accept": "application/json"
         }
