@@ -20,6 +20,10 @@ export let thisCounty = "Howard County";
             Vote: "5"
         },
         {
+            County: "Talbot County",
+            Vote: "2"
+        },
+        {
             County: "Prince George's County District 1",
             Vote: "6"
         },

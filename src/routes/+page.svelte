@@ -60,7 +60,54 @@ import {
 
     </div>
 
+
+    <div class="row">
+      <div class="col-md-3">
+        <a href="counties/Talbot+County">
+            <button type="button" class="btn btn-primary btn-lg">Talbot County</button>
+        </a>
+      </div>
+
+      <!--
+      <div class="col-md-3">
+        <a href="counties/Charles+County">
+            <button type="button" class="btn btn-primary btn-lg">x</button>
+      </a>
+    </div>
+
+    <div class="col-md-3">
+      <a href="counties/Baltimore+County">
+        <button type="button" class="btn btn-primary btn-lg">x</button>
+      </a>
+    </div>
+
+    <div class="col-md-3">
+      
+        <Dropdown size="lg">
+          <DropdownToggle color="primary" caret>x</DropdownToggle>
+          <DropdownMenu end>
+            <DropdownItem>
+              <a href="counties/Prince+George's+County+District+1">
+                District 1
+              </a>
+            </DropdownItem>
+            <DropdownItem>
+              <a href="counties/Prince+George's+County+District+2">
+                District 2
+              </a>
+            </DropdownItem>
+          </DropdownMenu>
+        </Dropdown>
+
+      </div>
+-->
+    </div>
+
   </div>
   <!-- close container -->
 
+  
 
+<style>
+  .row {padding-top:25px;}
+</style>
