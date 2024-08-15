@@ -1,5 +1,4 @@
 Allegany County	
-	
 Anne Arundel County	District 1
 Anne Arundel County	District 2
 Anne Arundel County	District 3
@@ -7,65 +6,46 @@ Anne Arundel County	District 4
 Anne Arundel County	District 5
 Anne Arundel County	District 6
 Anne Arundel County	District 7
-	
-	
 Calvert County	District 1
 Calvert County	District 2
 Calvert County	District 3
-	
 Caroline County	District 1
 Caroline County	District 2
-
 Carroll County	
-		
 Cecil County	District 1
 Cecil County	District 2
-
-Charles County	At Large
-	
+Charles County
 Dorchester County	District 1	
 Dorchester County	District 3
 Dorchester County	District 5
-	
 Frederick County	
-
 Garrett County	
-	
 Howard County	District 1	
 Howard County	District 2
 Howard County	District 3
 Howard County	District 4
 Howard County	District 5
-	
 Kent County	
-
 Montgomery County	At Large	
 Montgomery County	District 2
 Montgomery County	District 4
-	
 Prince George's County	District 1
 Prince George's County	District 4
 Prince George's County	District 5
 Prince George's County	District 7
 Prince George's County	District 8
-	
 Queen Anne's County	District 2
 Queen Anne's County	District 3
 Queen Anne's County	District 4
-
 Saint Mary's County	At Large	
 Saint Mary's County	District 2
 Saint Mary's County	District 4
-	
 Somerset County	District 2
 Somerset County	District 4
-	
 Talbot County	District 2
 Talbot County	District 5
 Talbot County	District 6
-
 Washington County	
-	
 Worcester County	District 2	
 Worcester County	District 3
 Worcester County	District 5

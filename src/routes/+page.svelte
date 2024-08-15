@@ -21,8 +21,8 @@ import {
     <!-- when a link is clicked, the county name is passed in the url to counties/[counties]-->
     <div class="row">
       <div class="col-md-3">
-        <a href="counties/Howard+County">
-            <button type="button" class="btn btn-primary btn-lg">Howard County</button>
+        <a href="counties/Allegany+County	">
+            <button type="button" class="btn btn-primary btn-lg">Allegany County	</button>
         </a>
       </div>
 
@@ -33,24 +33,49 @@ import {
     </div>
 
     <div class="col-md-3">
-      <a href="counties/Baltimore+County">
-        <button type="button" class="btn btn-primary btn-lg">Baltimore County</button>
+      <a href="counties/Carroll+County">
+        <button type="button" class="btn btn-primary btn-lg">Carroll County</button>
       </a>
     </div>
 
     <div class="col-md-3">
       
         <Dropdown size="lg">
-          <DropdownToggle color="primary" caret>Prince George's County</DropdownToggle>
+          <DropdownToggle color="primary" caret>Anne Arundel County</DropdownToggle>
           <DropdownMenu end>
             <DropdownItem>
-              <a href="counties/Prince+George's+County+District+1">
+              <a href="counties/Anne+Arundel+County+District+1">
                 District 1
               </a>
             </DropdownItem>
             <DropdownItem>
-              <a href="counties/Prince+George's+County+District+2">
+              <a href="counties/Anne+Arundel+County+District+2">
                 District 2
+              </a>
+            </DropdownItem>
+            <DropdownItem>
+              <a href="counties/Anne+Arundel+County+District+3">
+                District 3
+              </a>
+            </DropdownItem>
+            <DropdownItem>
+              <a href="counties/Anne+Arundel+County+District+4">
+                District 4
+              </a>
+            </DropdownItem>
+            <DropdownItem>
+              <a href="counties/Anne+Arundel+County+District+5">
+                District 5
+              </a>
+            </DropdownItem>
+            <DropdownItem>
+              <a href="counties/Anne+Arundel+County+District+6">
+                District 6
+              </a>
+            </DropdownItem>
+            <DropdownItem>
+              <a href="counties/Anne+Arundel+County+District+7">
+                District 7
               </a>
             </DropdownItem>
           </DropdownMenu>
@@ -63,8 +88,8 @@ import {
 
     <div class="row">
       <div class="col-md-3">
-        <a href="counties/Talbot+County">
-            <button type="button" class="btn btn-primary btn-lg">Talbot County</button>
+        <a href="counties/Frederick+County">
+            <button type="button" class="btn btn-primary btn-lg">Frederick County</button>
         </a>
       </div>
 
