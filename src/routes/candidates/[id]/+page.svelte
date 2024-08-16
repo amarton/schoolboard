@@ -59,13 +59,15 @@
 
     </div>
 
+    
+
     <!--The questions-->
-    <p><strong>Q1. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[9]}</p>
-    <p><strong>Q2. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[10]}</p>
-    <p><strong>Q3. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[11]}</p>
-    <p><strong>Q4. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[12]}</p>
-    <p><strong>Q5. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[13]}</p>
-    <p><strong>Q6. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {legislator[14]}</p>
+    <p><strong>Q1. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {@html legislator[9]}</p>
+    <p><strong>Q2. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {@html legislator[10]}</p>
+    <p><strong>Q3. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {@html legislator[11]}</p>
+    <p><strong>Q4. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {@html legislator[12]}</p>
+    <p><strong>Q5. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {@html legislator[13]}</p>
+    <p><strong>Q6. Lorem ipsum dolor sit amet, consectetur adipiscing elit:</strong><br> {@html legislator[14]}</p>
 
   {/each}
 

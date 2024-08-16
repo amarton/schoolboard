@@ -9,208 +9,208 @@ export let thisCounty = "Howard County";
  let voteNumber = [
         {
             County: "Allegany County",
-            Vote: "3"
+            Vote: "three"
         },
         {
             County: "Anne Arundel County District 1",
-            Vote: "4"
+            Vote: "four"
         },
         {
             County: "Anne Arundel County District 2",
-            Vote: "5"
+            Vote: "five"
         },
         {
             County: "Anne Arundel County District 3",
-            Vote: "2"
+            Vote: "two"
         },
                 {
             County: "Anne Arundel County District 4",
-            Vote: "2"
+            Vote: "two"
         },
                 {
             County: "Anne Arundel County District 5",
-            Vote: "2"
+            Vote: "two"
         },
                 {
             County: "Anne Arundel County District 6",
-            Vote: "2"
+            Vote: "two"
         },
                 {
             County: "Anne Arundel County District 7",
-            Vote: "2"
+            Vote: "two"
         },
         {
-            County: "Calvert County	District 1",
-            Vote: "6"
+            County: "Calvert County District 1",
+            Vote: "six"
         },
         {
-            County: "Calvert County	District 2",
-            Vote: "6"
+            County: "Calvert County District 2",
+            Vote: "six"
         },
         {
-            County: "Calvert County	District 3",
-            Vote: "6"
+            County: "Calvert County District 3",
+            Vote: "six"
         },
         {
             County: "Caroline County District 1",
-            Vote: "7"
+            Vote: "seven"
         },
                 {
             County: "Caroline County District 2",
-            Vote: "7"
+            Vote: "seven"
         },
         {
             County: "Carroll County",
-            Vote: "3"
+            Vote: "three"
         },
         {
             County: "Cecil County District 1",
-            Vote: "4"
+            Vote: "four"
         },
                 {
             County: "Cecil County District 2",
-            Vote: "4"
+            Vote: "four"
         },
         {
             County: "Charles County",
-            Vote: "5"
+            Vote: "five"
         },
         {
-            County: "Dorchester County	District 1",
-            Vote: "2"
+            County: "Dorchester County District 1",
+            Vote: "two"
         },
                 {
-            County: "Dorchester County	District 3",
-            Vote: "2"
+            County: "Dorchester County District 3",
+            Vote: "two"
         },
         {
-            County: "Dorchester County	District 5",
-            Vote: "2"
+            County: "Dorchester County District 5",
+            Vote: "two"
         },
 
         {
             County: "Frederick County",
-            Vote: "2"
+            Vote: "two"
         },
                 {
             County: "Garrett County",
-            Vote: "2"
+            Vote: "two"
         },
         {
-            County: "Howard County	District 1",
-            Vote: "2"
+            County: "Howard County District 1",
+            Vote: "two"
         },
         {
-            County: "Howard County	District 2",
-            Vote: "2"
+            County: "Howard County District 2",
+            Vote: "two"
         },
         {
-            County: "Howard County	District 3",
-            Vote: "2"
+            County: "Howard County District 3",
+            Vote: "two"
         },
         {
-            County: "Howard County	District 4",
-            Vote: "2"
+            County: "Howard County District 4",
+            Vote: "two"
         },
         {
-            County: "Howard County	District 5",
-            Vote: "2"
+            County: "Howard County District 5",
+            Vote: "two"
         },
                 {
             County: "Kent County",
-            Vote: "2"
+            Vote: "two"
         },
         {
-            County: "Montgomery County	At Large",
-            Vote: "6"
+            County: "Montgomery County At Large",
+            Vote: "six"
         },
         {
-            County: "Montgomery County	District 2",
-            Vote: "6"
+            County: "Montgomery County District 2",
+            Vote: "six"
         },
         {
-            County: "Montgomery County	District 4",
-            Vote: "6"
+            County: "Montgomery County District 4",
+            Vote: "six"
         },
         {
-            County: "Prince George's County	District 1",
-            Vote: "6"
+            County: "Prince George's County District 1",
+            Vote: "six"
         },
         {
-            County: "Prince George's County	District 4",
-            Vote: "6"
+            County: "Prince George's County District 4",
+            Vote: "six"
         },
         {
-            County: "Prince George's County	District 5",
-            Vote: "6"
+            County: "Prince George's County District 5",
+            Vote: "six"
         },
         {
-            County: "Prince George's County	District 7",
-            Vote: "6"
+            County: "Prince George's County District 7",
+            Vote: "six"
         },
         {
-            County: "Prince George's County	District 8",
-            Vote: "6"
+            County: "Prince George's County District 8",
+            Vote: "six"
         },
         {
             County: "Queen Anne's County District 2",
-            Vote: "7"
+            Vote: "seven"
         },
         {
             County: "Queen Anne's County District 3",
-            Vote: "7"
+            Vote: "seven"
         },
         {
             County: "Queen Anne's County District 4",
-            Vote: "7"
+            Vote: "seven"
         },
         {
             County: "Saint Mary's County At Large",
-            Vote: "6"
+            Vote: "six"
         },
         {
             County: "Saint Mary's County District 2",
-            Vote: "6"
+            Vote: "six"
         },
         {
             County: "Saint Mary's County District 4",
-            Vote: "6"
+            Vote: "six"
         },
         {
             County: "Somerset County District 2",
-            Vote: "6"
+            Vote: "six"
         },
         {
             County: "Somerset County District 4",
-            Vote: "6"
+            Vote: "six"
         },
         {
-            County: "Talbot County	District 2",
-            Vote: "6"
+            County: "Talbot County District 2",
+            Vote: "six"
         },
         {
-            County: "Talbot County	District 5",
-            Vote: "6"
+            County: "Talbot County District 5",
+            Vote: "six"
         },
         {
-            County: "Talbot County	District 6",
-            Vote: "6"
+            County: "Talbot County District 6",
+            Vote: "six"
         },
         {
             County: "Washington County",
-            Vote: "6"
+            Vote: "six"
         },
         {
             County: "Worcester County District 2",
-            Vote: "6"
+            Vote: "six"
         },
                 {
             County: "Worcester County District 3",
-            Vote: "6"
+            Vote: "six"
         },
                 {
             County: "Worcester County District 5",
-            Vote: "6"
+            Vote: "six"
         }
     ]   
     
