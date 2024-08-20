@@ -37,4 +37,9 @@
     {/if}
   {/each}
 
+
+  <a href="../">
+    <button type="button" class="btn btn-primary btn-md">Select another county</button>
+  </a>
+
 </div>

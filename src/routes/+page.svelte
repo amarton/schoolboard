@@ -14,7 +14,7 @@ import {
     <p class="hed">Board of Education Voter Guide</p>
     <p class="byline">By The Local News Network</p>
 
-    <p class="intro-text"><span class="dropcap">W</span>ith schools in Maryland facing issues ranging from pandemic-related learning losses to safety, voters will go to the polls Nov. 8 to vote for their local Board of Education. For that reason, the Local News Network at the University of Maryland's Philip Merrill College of Journalism sent a questionnaire to all 155 school board candidates to get their views on important issues. The results are compiled below in the Capital News Service Board of Education Voter Guide. Select a county to view candidates and their responses. Read about our methodology
+    <p class="intro-text"><span class="dropcap">W</span>ith schools in Maryland facing issues ranging from pandemic-related learning losses to safety, voters will go to the polls Nov. 8 to vote for their local Board of Education. For that reason, the Local News Network at the University of Maryland's Philip Merrill College of Journalism sent a questionnaire to all 155 school board candidates to get their views on important issues. The results are compiled below in the Capital News Service Board of Education Voter Guide. Select a county to view candidates and their responses. <a href="method">Read about our methodology</a>
 
     <p class="chapter-head"><a name="chapter"> Select a county to view Board of Education candidates: </a></p>
 

@@ -94,6 +94,12 @@ html {
 	letter-spacing: -2px;
   }
   
+  .sub {
+	font-size:1.25em;
+	font-weight: 500;
+	margin-top:-25px;
+  }
+
   p{
 	text-align:left;
 	line-height:180%;
