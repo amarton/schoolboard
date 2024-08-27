@@ -1,4 +1,6 @@
 <script>
+import VoterLogo from '$lib/images/voter-guide-logo.png';
+
 import {
       Dropdown,
       DropdownItem,
@@ -8,15 +10,21 @@ import {
   </script>
   
   
+  <div class="topper">
+    <div class="topper-content">
+      <center><a href="./"><img src="{VoterLogo}" id="main-logo"></a> </center>
+      <p class="intro-text">With schools in Maryland facing issues ranging from pandemic-related learning losses to safety, voters will go to the polls Nov. 8 to vote for their local Board of Education. For that reason, the Local News Network at the University of Maryland's Philip Merrill College of Journalism sent a questionnaire to all 155 school board candidates to get their views on important issues. The results are compiled below.<br>
+      <strong class="red">The Maryland general election will be held Nov. 5, 2024.</strong></p>
+        
+    </div>
+  </div>
+
+
   <!-- Start container -->
   <div class="container">
 
-    <p class="hed">Board of Education Voter Guide</p>
-    <p class="byline">By The Local News Network</p>
 
-    <p class="intro-text"><span class="dropcap">W</span>ith schools in Maryland facing issues ranging from pandemic-related learning losses to safety, voters will go to the polls Nov. 8 to vote for their local Board of Education. For that reason, the Local News Network at the University of Maryland's Philip Merrill College of Journalism sent a questionnaire to all 155 school board candidates to get their views on important issues. The results are compiled below in the Capital News Service Board of Education Voter Guide. Select a county to view candidates and their responses. <a href="method">Read about our methodology</a>
-
-    <p class="chapter-head"><a name="chapter"> Select a county to view Board of Education candidates: </a></p>
+    <p class="sub">Select a district to see Board of Education candidates</p>
 
     <!-- when a link is clicked, the county name is passed in the url to counties/[counties]-->
     <div class="row">
@@ -414,7 +422,8 @@ import {
     <!-- end row-->
     </div>
 
-
+    <div class="method"><a href="method">Read our methodology</a></div>
+    
     <!-- close container -->
   </div>
 

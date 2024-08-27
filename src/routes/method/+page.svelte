@@ -1,4 +1,15 @@
-<div class="container">
+<script>
+    import VoterLogo from '$lib/images/voter-guide-logo.png';
+</script>
+
+<div class="topper">
+    <div class="topper-content">
+      <center><a href="./"><img src="{VoterLogo}" id="main-logo"></a> </center>
+    
+    </div>
+  </div>
+  
+  <div class="container">
 
     <p class="hed">Methodology</p>
 

@@ -221,8 +221,8 @@ export let thisCounty = "Howard County";
 {#each voteNumber as number}
     {#if number.County === thisCounty}
     <p class="hed">{number.County} Board of Education Candidates</p> 
-    <p class="intro-text">Select a candidate below to read their responses to our questionnaire. The Maryland general election will be held Nov. 5, 2024.</p>
-    <p class="intro-text"><em>Vote for up to {number.Vote}</em></p> 
+    <p class="sub">Select a candidate below to read their responses to our questionnaire.<br>
+    <span class="sub2">Vote for up to {number.Vote} candidates.</span></p> <br>
     {/if}
 
 {/each}

@@ -15,11 +15,7 @@
 		<span class="navbar-toggler-icon"></span>
 		  </button>
 		  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-			<ul class="navbar-nav me-auto mb-2 mb-lg-0">
-				<li  class="nav-item" aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-					<a href="/" class="nav-link active">Home</a>
-				</li>
-			</ul>
+			
 		
 		  </div>
 		</div>
