@@ -46,6 +46,8 @@ thisCounty is a var passed to the component and pulled from the URL / export abo
         <hr>
       </div>  
     {/if}
+    {:else}
+    <p class="candidate-no">All candidates in this district answered our survey</p>
   {/each}
 
 

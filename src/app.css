@@ -196,11 +196,11 @@ html {
 	border:1px solid #cdcdcd;
 	border-top:3px solid #F02930;
 	border-radius: 2px;
-	width:260px;
+	min-width:260px;
 	padding:20px;
 	color:#000;
 	text-transform: uppercase;
-	font-size: 1em;
+	font-size: .8em;
 }
   
 .btn-primary:hover {
@@ -228,31 +228,37 @@ html {
 	margin-top:30px;
 }
 
+.navbar-toggler {
+	display:none;
+}
+
   /* RESPONSIVE */
-  
-  @media(max-width:550px) {
-	p {
-	  padding-left:20px;
-	  padding-right:10px;
-	}
-  
-	.intro-text {
-	  font-size:1em;
-	}
-  
-	.chapter-head {
-	  font-size:1.25em;
-	}
-  
-	.hed {
-	  font-size:2em;
-	}
-  
-	.quote {
-	  font-size:1em;
-	}
-  
+  @media(max-width:1200px) {
+	.btn-primary {min-width: 200px;}
   }
-  
+
+  @media(max-width:1000px) {
+	.btn-primary {font-size: .7em;}
+  }
+
+  @media(max-width:800px) {
+	.btn-primary {
+		font-size: 1em;
+		min-width: 280px;
+		margin-top:25px;
+	}
+
+	.row {
+		text-align:center;
+		padding-top:0px !important;
+
+	}
+
+	.hed {font-size:1.5em;}
+
+	.sub, .sub2, .candidate, .candidate-no, .intro-text, .question, .answer {font-size:1em;}
+  }
+
+
   
   
