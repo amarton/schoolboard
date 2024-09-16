@@ -125,6 +125,12 @@ html {
 	font-weight: 500;
   }
 
+  .sub3 {
+	font-size:.75em;
+	font-weight: 500;
+	font-style: italic;
+  }
+
   p{
 	text-align:left;
 	line-height:180%;

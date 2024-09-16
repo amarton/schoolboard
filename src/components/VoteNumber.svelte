@@ -221,8 +221,9 @@ export let thisCounty = "Howard County";
 {#each voteNumber as number}
     {#if number.County === thisCounty}
     <p class="hed">{number.County} Board of Education Candidates</p> 
-    <p class="sub">Select a candidate below to read their responses to our questionnaire.<br>
-    <span class="sub2">Vote for up to {number.Vote} candidates.</span></p> <br>
+    <p class="sub">Select a candidate below to read their responses to our questionnaire. <br>
+    <span class="sub3">Candidates in italic did not answer our survey.</span><br>
+    <span class="sub2 red">Vote for up to {number.Vote} candidates. </span></p><br>
     {/if}
 
 {/each}

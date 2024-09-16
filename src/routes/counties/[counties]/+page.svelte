@@ -36,18 +36,15 @@ thisCounty is a var passed to the component and pulled from the URL / export abo
     {/if}
   {/each}
 
-  <br><p class="sub sub2">The following candidates did not answer:</p>
   <!--loop through the data and display each county where candidate DID NOT answer-->
   
   {#each county as thisCounty}
     {#if  thisCounty[3] === 'n'}
       <div class="container">
-        <p class="candidate-no">{thisCounty[2]}</p> 
+        <p class="candidate-no"><em>{thisCounty[2]}</em></p> 
         <hr>
       </div>  
     {/if}
-    {:else}
-    <p class="candidate-no">All candidates in this district answered our survey</p>
   {/each}
 
 
