@@ -263,7 +263,11 @@ html {
 	.hed {font-size:1.5em;}
 
 	.sub, .sub2, .candidate, .candidate-no, .intro-text, .question, .answer {font-size:1em;}
-  }
+	
+	.intro-text {
+		width:90%;
+	}
+}
 
 
   
