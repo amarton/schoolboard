@@ -13,8 +13,8 @@ import {
   <div class="topper">
     <div class="topper-content">
       <center><a href="./"><img src="{VoterLogo}" id="main-logo"></a> </center>
-      <p class="intro-text"><strong>Who is running for school board in your district?</strong><br> With schools in Maryland facing issues ranging from pandemic-related learning losses to safety, voters will go to the polls Nov. 8 to vote for their local Board of Education. For that reason, the Local News Network at the University of Maryland's Philip Merrill College of Journalism sent a questionnaire to all 155 school board candidates to get their views on important issues. The results are compiled below.<br>
-      <strong class="red">The Maryland general election will be held Nov. 5, 2024.</strong></p>
+      <p class="intro-text"><strong>Who is running for school board in your district?</strong><br> With schools in Maryland facing issues ranging from the Blueprint for Maryland's Future to classroom cellphone use, voters will go to the polls Nov. 5 to vote for their local Board of Education. For that reason, the Local News Network at the University of Maryland's Philip Merrill College of Journalism sent a questionnaire to all 109 school board candidates to get their views on important issues. The results are compiled below.<br>
+      <strong class="red">The Maryland general election will be held Nov. 5, 2024. Early voting begins Oct. 24.</strong></p>
         
     </div>
   </div>
