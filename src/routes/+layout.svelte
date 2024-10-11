@@ -18,7 +18,7 @@
 	</div>
 	<footer class="footer">
   <!-- Footer-->
-	<p class="text-center">Copyright 2024 Captial News Service</p>
+	<p class="text-center">Copyright 2024 Capital News Service</p>
 <!-- end footer-->
 </footer>
 </div>
