@@ -324,17 +324,17 @@ import {
         <DropdownToggle color="primary" caret>Saint Mary's County</DropdownToggle>
         <DropdownMenu end>
           <DropdownItem>
-            <a href="counties/Saint+Mary's+County+At+Large">
+            <a href="counties/St.+Mary's+County+at+large">
               At Large
             </a>
           </DropdownItem>
           <DropdownItem>
-            <a href="counties/Saint+Mary's+County+District+2">
+            <a href="counties/St.+Mary's+County+District+2">
               District 2
             </a>
           </DropdownItem>
           <DropdownItem>
-            <a href="counties/Saint+Mary's+County+District+4">
+            <a href="counties/St.+Mary's+County+District+4">
               District 4
             </a>
           </DropdownItem>
