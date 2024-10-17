@@ -15,18 +15,25 @@
 
     <div class="row">
         
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>The Local News Network Board of Education Voter Guide, published in partnership with Capital News Service and the Maryland Democracy Initiative, was produced by a team of 105 student journalists and 10 faculty members at the University of Maryland's Philip Merrill College of Journalism. Information from the voter guide will be made available for publication free of charge to any news outlet in Maryland.</p>
 
-        <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Parturient ridiculus natoque ipsum ridiculus maximus vehicula natoque curabitur leo. Vivamus in dapibus nunc congue viverra et morbi adipiscing? Ad consequat turpis duis; potenti nascetur elit. Potenti ante hac vulputate ornare pulvinar euismod dui montes fermentum. Nunc semper eleifend pulvinar neque maecenas ut purus libero. Leo lectus volutpat tristique lacinia congue ligula. Pharetra est non sollicitudin efficitur volutpat porta.</p>
-
-        <p>Nunc tellus neque vehicula maximus sem. Anetus per est metus enim venenatis potenti odio. Mauris dolor conubia volutpat in sociosqu diam porta morbi. Congue duis suscipit nostra; pretium augue rutrum pellentesque fermentum. Maximus suspendisse magna, felis amet risus suspendisse metus dapibus commodo. Curae congue pretium; sapien himenaeos tortor a nisl consequat. Tellus venenatis neque diam sit hac tortor justo vivamus. Curabitur condimentum elit convallis suscipit maecenas semper volutpat.</p>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-        <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Parturient ridiculus natoque ipsum ridiculus maximus vehicula natoque curabitur leo. Vivamus in dapibus nunc congue viverra et morbi adipiscing? Ad consequat turpis duis; potenti nascetur elit. Potenti ante hac vulputate ornare pulvinar euismod dui montes fermentum. Nunc semper eleifend pulvinar neque maecenas ut purus libero. Leo lectus volutpat tristique lacinia congue ligula. Pharetra est non sollicitudin efficitur volutpat porta.</p>
-            
-        <p>Nunc tellus neque vehicula maximus sem. Anetus per est metus enim venenatis potenti odio. Mauris dolor conubia volutpat in sociosqu diam porta morbi. Congue duis suscipit nostra; pretium augue rutrum pellentesque fermentum. Maximus suspendisse magna, felis amet risus suspendisse metus dapibus commodo. Curae congue pretium; sapien himenaeos tortor a nisl consequat. Tellus venenatis neque diam sit hac tortor justo vivamus. Curabitur condimentum elit convallis suscipit maecenas semper volutpat.</p>
-    
+      <p>LNN began this project by sending a candidate questionnaire to all 109 school board candidates in the state. Seventy-four candidates responded. Candidate responses were edited only for grammar and style.</p>
+      
+      <p>Student journalists also did background checks on all the candidates. A future Capital News Service story will include details about candidates who have faced significant legal issues.</p>
+      
+      <p><strong>Lead editor:</strong> Jerry Zremski, jzremski@umd.edu</p>
+      
+      <p><strong>Editors:</strong> Marty Kaiser and Jodi McFarland Friedman.</p>
+      
+      <p><strong>Editors:</strong> Jamaal Abdul-Alim, Abbie Bennett, Christine Harvey, David Lightman, Clarence Williams</p>
+      
+      <p><strong>Design and development:</strong> Adam Marton</p>
+      
+      <p><strong>Audience editor:</strong> Stacey Decker
+      Enterprise reporting team: Sasha Allen, Marwa Barakat, Emily Condon, Devin Etta, Adam Hudacek, Ela Jalil, Audrey Keefe, Colin McNamara, Max Schaeffer, Tolu Talabi.</p>
+      
+      <p><strong>Reporters:</strong> Folesade Ajishegiri, Jake Ballard, Mamaissata Bangoura, Zoe Bayewitz, Logal Beebe, Aline Behar Kado, Mara Bell, Caitlyn Blake, Noah Bland, Xavier Board, Ryan Bowie, Liam Bowman, Karyme Bravo, Andrew Breza, Aaron Bridges, Ethan Broschart, Mary Burke, Ashley Burkett, Randal Chow, Zoya Church, Matthew Cohen, Samantha Cohen, Joseph Conaty, Aidan Currie, Isabella Decrescenzo, Razak Diallo, Brooke Ensminger, Rhiannon Evans, Alasia Ezzard, Ian Ferris, Julian Ford, Lauren Frank, Samuel Gauntt, Benjamin Geffner, Lillian Glaros, Casey Glickman, Trevor Gomes, Milvian Gonzales, Niamh Gray, Savannah Grooms, Caitlyn Heiderman, Gibson Hirt, Zsana Hoskins, Aamaly Hossain, Ellen Isaacson, Jonathan Jancewicz, Josephine Johnson, Molecule Jongwilai, Ellen Jomlin, Charlotte Kanner, Jacob Kauderer, Matthew Kauffman, Ryan Kelly, Sara Leber, Maximo Legaspi, Danna Matheus, John McConnell, Emma Mitchell, Andrew Mollenauer, Catherine Murphy, Tendai Murray, Montanna Norman, Victoria Opera, Rebecca Parnass, Andrew Parr, Haley Parsley, Nicole Pilsbury, Henry Quach, Vivian Renkey, Peter Riccio, Abigail Roedersheimer, Theodore Rose, Annie Ryan, Tiasia Saunders, Dylan Schmidt, Madeline Seck, Diya Shah, Isaac Shiner, Omar Shoreibah, Amanda Sinofsky, Erin Sjostedt, Lauren Smith, Nia Maya-Courtney Smith, Daniel Stern, Claudia Stewart, Princess Tatsi, Alexander Taylor, Jade Tran, Victoria Uleck, Benjamin Voelker, Sanya Wason, Hannah White, Joseph Wicke, and Caleb Winters.</p>
+      
         <p><a href="/">Return to the Voter Guide</a></p>
     </div>
 </div>
