@@ -29,8 +29,10 @@
       
       <p><strong>Design and development:</strong> Adam Marton</p>
       
-      <p><strong>Audience editor:</strong> Stacey Decker
-      Enterprise reporting team: Sasha Allen, Marwa Barakat, Emily Condon, Devin Etta, Adam Hudacek, Ela Jalil, Audrey Keefe, Colin McNamara, Max Schaeffer, Tolu Talabi.</p>
+      <p><strong>Audience editor:</strong> Stacey Decker</p>
+
+
+      <p><strong>Enterprise reporting team:</strong> Sasha Allen, Marwa Barakat, Emily Condon, Devin Etta, Adam Hudacek, Ela Jalil, Audrey Keefe, Colin McNamara, Max Schaeffer, Tolu Talabi.</p>
       
       <p><strong>Reporters:</strong> Folesade Ajishegiri, Jake Ballard, Mamaissata Bangoura, Zoe Bayewitz, Logal Beebe, Aline Behar Kado, Mara Bell, Caitlyn Blake, Noah Bland, Xavier Board, Ryan Bowie, Liam Bowman, Karyme Bravo, Andrew Breza, Aaron Bridges, Ethan Broschart, Mary Burke, Ashley Burkett, Randal Chow, Zoya Church, Matthew Cohen, Samantha Cohen, Joseph Conaty, Aidan Currie, Isabella Decrescenzo, Razak Diallo, Brooke Ensminger, Rhiannon Evans, Alasia Ezzard, Ian Ferris, Julian Ford, Lauren Frank, Samuel Gauntt, Benjamin Geffner, Lillian Glaros, Casey Glickman, Trevor Gomes, Milvian Gonzales, Niamh Gray, Savannah Grooms, Caitlyn Heiderman, Gibson Hirt, Zsana Hoskins, Aamaly Hossain, Ellen Isaacson, Jonathan Jancewicz, Josephine Johnson, Molecule Jongwilai, Ellen Jomlin, Charlotte Kanner, Jacob Kauderer, Matthew Kauffman, Ryan Kelly, Sara Leber, Maximo Legaspi, Danna Matheus, John McConnell, Emma Mitchell, Andrew Mollenauer, Catherine Murphy, Tendai Murray, Montanna Norman, Victoria Opera, Rebecca Parnass, Andrew Parr, Haley Parsley, Nicole Pilsbury, Henry Quach, Vivian Renkey, Peter Riccio, Abigail Roedersheimer, Theodore Rose, Annie Ryan, Tiasia Saunders, Dylan Schmidt, Madeline Seck, Diya Shah, Isaac Shiner, Omar Shoreibah, Amanda Sinofsky, Erin Sjostedt, Lauren Smith, Nia Maya-Courtney Smith, Daniel Stern, Claudia Stewart, Princess Tatsi, Alexander Taylor, Jade Tran, Victoria Uleck, Benjamin Voelker, Sanya Wason, Hannah White, Joseph Wicke, and Caleb Winters.</p>
       
